@@ -1,0 +1,15 @@
+SPEC CAPSTONE BRAINSTORM
+
+Project Name : Pokemon Stadium
+
+Pitch : Ready to relive my childhood and nostalgia? Pokemon Stadium is our chance to live the life of Ash Ketchum and become a Pokemon Master! 
+
+MVPs:
+
+*Create an User Account
+*Log-In or Log-Out Feature
+*Users can access Pokemon Data(Types, Moves, Evolutions, Picture)
+*Users can search Pokemon (Search Bar)
+*Users can build a team (3 Pokemon) and battle computer based off Pokemon Types (Will create Pokemon Cards and they will battle based off Pokemon Types)
+*Users will get a Starter Pokemon (Starter Pokemon will become Profile Picture)
+
