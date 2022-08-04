@@ -1,0 +1,11 @@
+.container{
+    width: 70%;
+    margin: auto;
+    padding-top: 100px;
+    display: flex;
+}
+.left-content{
+    display: grid;
+    grid-template-columns: repeat(auto-fit,minmax(200px,0.5fr));
+    grid-gap:2rem;
+}

@@ -1,0 +1,38 @@
+header {
+    background-color: #D90429;
+    color: white;
+
+    
+    width: 100vw;
+    height: 20vh;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 50px;
+    
+}
+
+h2 {
+    font-size: 3rem;
+}
+
+button {
+    min-width: 150px;
+    height: 45px;
+    font-size: 25px;
+    background-color: #3762AC;
+    margin: 10px;
+    transition: all 0.05s ease-in-out;
+  }
+
+.nav-btn {  
+    background-color: #3762AC;
+    color: white;
+    font-size: 20px;
+    border: none;
+    height: 45px;
+    min-width: 50px;
+    transition: all 0.2s ease-in-out;
+}
+
